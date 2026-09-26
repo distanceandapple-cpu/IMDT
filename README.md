@@ -1,6 +1,6 @@
 # IMD-T:Enhancing Spatial Transcriptomics via Iterative Masked Diffusion Transformer guided by scRNA-seq
 
-A novel method named stDiff investigates the potential of employing diffusion models for single-cell omics generation.
+A novel framework named IMD-T investigates the potential of combining Diffusion Transformers with iterative observation reinjection for scRNA-seq-guided spatial transcriptomics imputation.
 
 ## Framework
 
